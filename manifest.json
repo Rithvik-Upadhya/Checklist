@@ -2,8 +2,8 @@
     "manifest_version": 2,
     "name": "Checklist",
     "version": "1.0",
-    "description": "Private. Locallly Stored. Minimalist.",
-    "homepage_url": "",
+    "description": "What's on your to-do list?",
+    "homepage_url": "https://github.com/Rithvik-Upadhya/Checklist.git",
     "icons": {
         "48": "images/favicon-48.png",
         "96": "images/favicon-96.png"
