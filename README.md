@@ -1,5 +1,5 @@
-# Currency Converter
+# Checklist App
 
-Hosted on [Netlify](https://serene-empanada-855376.netlify.app/)
+Hosted on [Netlify]()
 
-Built using vanilla Javascript, HTML, CSS, and APIs
+Built using vanilla Javascript, HTML, and CSS
